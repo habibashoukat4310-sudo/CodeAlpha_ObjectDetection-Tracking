@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Downloaded model weights
+yolov8n.pt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
